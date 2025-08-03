@@ -16,6 +16,7 @@ A simple **Tampermonkey userscript** that prevents TATA Embrace from auto-redire
 3. Paste the link back in the address bar and press Enter.
   - If it redirects to Lite, repeat the step once or twice.
   - If it is still redirecting, then decrease the delay, and increase it if it's displaying a blank page. We need to be in the grey line.
+4. Once you have done like 60% of the progress, you will eventually never get redirected back, so you can then disable the script and work normally (which probably means in the Lite, there was something that never got updated even after completing, so it redirects us back).
 
 ## That's it
 1. If it was useful for you, then please consider giving me a **star** so that I can flex :P
