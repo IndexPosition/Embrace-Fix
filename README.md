@@ -1,4 +1,4 @@
-# TATA Embrace Redirect Fix
+# TCS Embrace Redirect Fix
 
 A simple **Tampermonkey userscript** that prevents TATA Embrace from auto-redirecting to Lite, allowing you to load and use the Embrace site. LOL that rhymes!
 
