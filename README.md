@@ -2,7 +2,7 @@
 
 A simple **Tampermonkey userscript** that prevents TATA Embrace from auto-redirecting to Lite, allowing you to load and use the Embrace site. LOL that rhymes!
 
-## ⚙️ Installation
+## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (or another userscript manager) in your browser. If you're unsure, watch the tutorial!
 2. Create a **new userscript** in Tampermonkey.
